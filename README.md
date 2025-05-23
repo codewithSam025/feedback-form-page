@@ -10,7 +10,7 @@ The purpose of this project was to practice building structured and interactive 
 - HTML5
 
 ## 📸 Screenshot  
-![Hotel Feedback Form Screenshot](https://raw.githubusercontent.com/yourusername/repo-name/main/Screenshot%202025-05-23%20195342.png)  
+![Hotel Feedback Form Screenshot](Screenshot.png)  
 
 
 ## 🔗 Live Demo
